@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">KotlinCalclator</string>
+    <string name="calc_btn_0" translatable="false">0</string>
+    <string name="calc_btn_1" translatable="false">1</string>
+    <string name="calc_btn_2" translatable="false">2</string>
+    <string name="calc_btn_3" translatable="false">3</string>
+    <string name="calc_btn_4" translatable="false">4</string>
+    <string name="calc_btn_5" translatable="false">5</string>
+    <string name="calc_btn_6" translatable="false">6</string>
+    <string name="calc_btn_7" translatable="false">7</string>
+    <string name="calc_btn_8" translatable="false">8</string>
+    <string name="calc_btn_9" translatable="false">9</string>
+    <string name="calc_btn_ac" translatable="false">AC</string>
+    <string name="calc_btn_sign" translatable="false">±</string>
+    <string name="calc_btn_percent" translatable="false">%</string>
+    <string name="calc_btn_div" translatable="false">/</string>
+    <string name="calc_btn_multi" translatable="false">*</string>
+    <string name="calc_btn_sub" translatable="false">-</string>
+    <string name="calc_btn_period" translatable="false">.</string>
+    <string name="calc_btn_equal" translatable="false">=</string>
+    <string name="calc_btn_add" translatable="false">+</string>
+</resources>
